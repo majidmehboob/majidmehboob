@@ -5,9 +5,19 @@
 <br/>
 <table>
   <tr>
-    <td>Flutter Developer | UI/UX Designer  </td>
-
-  
+    <td> Social Media Accounts</td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://twitter.com/sakigo_09">
+    <img align="left" alt="Saket Prag | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+    </a>
+    </td>
+    <td>
+    <a href="https://www.linkedin.com/in/saket-prag-31b972157/">
+    <img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    </a>
+    </td>
   </tr>
 </table>
 
