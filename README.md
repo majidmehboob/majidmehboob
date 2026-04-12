@@ -1,10 +1,12 @@
-<h2>
-  👋 Hi, I'm Majid Mehboob 
-  <span style="font-size:16px; font-weight:normal;">
-    (Flutter Developer | UI/UX Designer)
+<p>
+  <span style="font-size:28px; font-weight:bold;">
+    👋 Hi, I'm Majid Mehboob
   </span>
-</h2>
-
+  <br/>
+  <span style="font-size:16px;">
+    Flutter Developer | UI/UX Designer
+  </span>
+</p>
 <p align="center">
   <img src="/banner.png" width="100%" />
 </p>
