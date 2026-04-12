@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/#ffd23e.png" width="100%" />
+  <img src="/banner.png" width="100%" />
 </p>
 <br/>
 <table>
