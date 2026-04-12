@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Majid Mehboob <br> &nbsp; <br> Flutter Developer | UI/UX Designer
+## 👋 Hi, I'm Majid Mehboob <br> &nbsp; Flutter Developer | UI/UX Designer
 <p align="center">
   <img src="/banner.png" width="100%" />
 </p>
