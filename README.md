@@ -3,17 +3,13 @@
   <img src="/banner.png" width="100%" />
 </p>
 <br/>
-<table width="100%">
+<table>
   <tr>
-    <td align="center">
-
-<h3>Social Media Accounts</h3>
-
-    </td>
+    <td><h3>Social Media Accounts</h3></td>
   </tr>
 
   <tr>
-    <td align="center">
+    <td>
 
 <a href="https://twitter.com/">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" width="30" style="filter: invert(1); margin: 10px;" />
