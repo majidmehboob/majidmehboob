@@ -1,8 +1,5 @@
-<h2>
-  👋 Hi, I'm Majid Mehboob 
-  <h1>
-    (Flutter Developer | UI/UX Designer)
-  </h1>
+#👋 Hi, I'm Majid Mehboob 
+###Flutter Developer | UI/UX Designer
 </h2>
 <p align="center">
   <img src="/banner.png" width="100%" />
