@@ -1,6 +1,16 @@
 ### Hello World 👋 It's [Majid!](https://majidmehboob.github.io/MyPortfolio/)
 
 <br/>
+<table>
+  <tr>
+    <td bgcolor="#ffd23e">
+
+### 👋 Hi, I'm Majid  
+Flutter Developer | UI/UX Designer  
+
+    </td>
+  </tr>
+</table>
 
 
 <a href="https://twitter.com/sakigo_09">
