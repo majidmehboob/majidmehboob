@@ -1,5 +1,6 @@
-### Hello World 👋 It's [Majid!](https://majidmehboob.github.io/MyPortfolio/)
-![banner](https://capsule-render.vercel.app/api?type=waving&color=ffd23e&height=200&section=header&text=Majid%20Portfolio&fontSize=40&fontColor=272723)
+<p align="center">
+  <img src="assets/banner.png" width="100%" />
+</p>
 <br/>
 <table>
   <tr>
