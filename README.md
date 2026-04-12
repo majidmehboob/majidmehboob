@@ -3,41 +3,34 @@
   <img src="/banner.png" width="100%" />
 </p>
 <br/>
-<table>
+<table width="100%">
   <tr>
-    <td> Social Media Accounts</td>
-  </tr>
-  <tr>
-    <td>
-    <a href="https://twitter.com/sakigo_09">
-    <img align="left" alt="Saket Prag | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-    </a>
+    <td align="center">
+
+<h3>Social Media Accounts</h3>
+
     </td>
-    <td>
-    <a href="https://www.linkedin.com/in/saket-prag-31b972157/">
-    <img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-    </a>
+  </tr>
+
+  <tr>
+    <td align="center">
+
+<a href="https://twitter.com/">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" width="30" style="filter: invert(1); margin: 10px;" />
+</a>
+
+<a href="https://linkedin.com/">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="30" style="filter: invert(1); margin: 10px;" />
+</a>
+
+<a href="https://github.com/">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="30" style="filter: invert(1); margin: 10px;" />
+</a>
+
     </td>
   </tr>
 </table>
 
 
-<a href="https://twitter.com/sakigo_09">
-<img align="left" alt="Saket Prag | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/saket-prag-31b972157/">
-<img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://medium.com/@saketprag322">
-<img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
-<a href="https://www.instagram.com/sakigo_09/">
-<img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.youtube.com/watch?v=eXlaZbQ0TiY&t=3s">
-<img align="left" alt="Saket Prag | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
-<br />
 
-<br />
 
