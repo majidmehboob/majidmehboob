@@ -5,12 +5,9 @@
 <br/>
 <table>
   <tr>
-    <td bgcolor="#ffd23e">
+    <td>Flutter Developer | UI/UX Designer  </td>
 
-### 👋 Hi, I'm Majid  
-Flutter Developer | UI/UX Designer  
-
-    </td>
+  
   </tr>
 </table>
 
